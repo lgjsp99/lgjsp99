@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Janith
 - 👀 I’m interested in Computer Security 
-- 🌱 I’m currently learning Computer Science
+- 🌱 I’m a Computer Science Undergraduate 
 - 📫 Reach me via twitter @lgjsp99
 
 <!---
